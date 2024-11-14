@@ -17,7 +17,7 @@ A simple and interactive currency converter built using HTML, CSS, and JavaScrip
 
 ## Live Demo
 
-You can try the live demo of the Currency Converter [here](link-to-live-demo).
+You can try the live demo of the Currency Converter [here](https://tiagofdias.github.io/Currency-Converter/).
 
 ## Contributing
 
